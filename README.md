@@ -17,5 +17,5 @@ A Python command-line utility that checks critical endpoint health metrics.
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/it-support-toolkit.git](https://github.com/yourusername/it-support-toolkit.git)# IT--Support-toolkit
+   git clone [https://github.com/PreciousChif/it-support-toolkit.git](https://github.com/PreciousChif/it-support-toolkit.git)# IT--Support-toolkit
 Automated diagnostic tools, system scripts, and IT support documentation for Linux and Windows systems
